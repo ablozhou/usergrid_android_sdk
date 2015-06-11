@@ -25,3 +25,18 @@ proguard/
 
 # Log Files
 *.log
+
+# other
+.idea
+*.DS_Store
+target
+tmp
+bin
+build
+*.out
+*.svn
+*.ipr
+*.iws
+*.class
+
+gen/com/project/messagee/R.java
